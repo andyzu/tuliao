@@ -9,3 +9,4 @@ composer require dcat/laravel-admin:"2.*" -vvv
 php artisan admin:publish
 php artisan admin:install
 详细参阅：https://learnku.com/docs/dcat-admin/2.x/install/8081
+
